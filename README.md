@@ -68,11 +68,6 @@ Este projeto tem como objetivo a criação de um Modelo Entidade-Relacionamento 
 | Cultura              | Sensor_Nutrientes       | 1:N  |
 | Sensor_Nutrientes    | Nutriente_Registrado    | 1:N  |
 
-## Modelo DER (imagem)
-
-Segue o modelo DER abaixo:
-
-Arquivo: `modelo.png`
 
 ## Integrantes do Grupo
 
