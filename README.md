@@ -77,7 +77,7 @@ Arquivo: `modelo.png`
 ## Integrantes do Grupo
 
 - Arthur Luiz Rosado Alves  
-(adicione os demais nomes se estiver em grupo)
+
 
 
 
