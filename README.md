@@ -71,7 +71,7 @@ Este projeto tem como objetivo a criação de um Modelo Entidade-Relacionamento 
 
 ## Integrantes do Grupo
 
-- Arthur Luiz Rosado Alves  
+- Arthur Luiz Rosado Alves  -> RM562061
 
 
 
