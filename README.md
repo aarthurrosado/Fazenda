@@ -72,6 +72,10 @@ Este projeto tem como objetivo a criação de um Modelo Entidade-Relacionamento 
 ## Integrantes do Grupo
 
 - Arthur Luiz Rosado Alves  -> RM562061
+- Renan de Oliveira Mendes  -> RM563145
+- Thiago Santos  -> RM5633275
+- Otavio Custodio  -> RM5656065
+- Leandro  -> RM565240
 
 
 
